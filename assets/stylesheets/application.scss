@@ -16,7 +16,7 @@ body {
   display: flex;
 }
 
-.map-container {
+.mapContainer {
   height: 100vh;
   width: 40%;
   position: sticky !important; /* !important to override Gmaps inline CSS */

@@ -12,8 +12,8 @@ const flats = [
     imageUrl: "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
     price: 200,
     priceCurrency: "EUR",
-    lat: 48.885707,
-    lng: 2.343543
+    lat: 78.885707,
+    lng: 72.343543
   },
   {
     name: "Super 60m2 in trendy neighborhood!",
@@ -21,7 +21,7 @@ const flats = [
     price: 150,
     priceCurrency: "EUR",
     lat: 48.885312,
-    lng: 2.341225
+    lng: -23.341225
   },
   {
     name: "Splendide terrasse vue imprenable",
