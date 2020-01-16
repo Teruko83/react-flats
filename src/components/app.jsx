@@ -4,7 +4,6 @@ import mapboxgl from 'mapbox-gl';
 import flats from '../../data/flats';
 import FlatList from './flat_list';
 import Marker from './marker';
-mapboxgl.accessToken = 'pk.eyJ1IjoidGVydWtvIiwiYSI6ImNrMmdpYzB5YzB2OHYzYnQ4dmM5ZWIxdnoifQ.ZIcsuOzZgmO__rcs5POD0g';
 
 
 class App extends Component {
